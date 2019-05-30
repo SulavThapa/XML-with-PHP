@@ -1,0 +1,31 @@
+<!ELEMENT Company (Company_Details, Department)> 
+<!ELEMENT Company_Details (Name, Address, Phone, Logo)>
+<!ATTLIST Company_Details type CDATA #IMPLIED>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Address (#PCDATA)>
+<!ELEMENT Phone (#PCDATA)>
+<!ELEMENT Logo (#PCDATA)>
+
+<!ELEMENT Department (Chief, Departments+)>
+<!ELEMENT Chief (Chief_Name, Chief_Address, Chief_Email, Chief_Phone, Chief_MobilePhone)>
+<!ELEMENT Chief_Name (#PCDATA)>
+<!ELEMENT Chief_Address (#PCDATA)>
+<!ELEMENT Chief_Email (#PCDATA)>
+<!ELEMENT Chief_Phone (#PCDATA)>
+<!ELEMENT Chief_MobilePhone (#PCDATA)>
+
+<!ELEMENT Departments (Department_Name, Project_Manager, Department_Phone, Description, No_of_Projects, No_Of_Staff)>
+<!ATTLIST Departments id CDATA #REQUIRED>
+<!ELEMENT Department_Name (#PCDATA)>
+<!ELEMENT Project_Manager (#PCDATA)>
+<!ELEMENT Department_Phone (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>
+<!ELEMENT No_of_Projects (#PCDATA)>
+<!ELEMENT No_Of_Staff (#PCDATA)>
+
+
+
+
+
+
+  

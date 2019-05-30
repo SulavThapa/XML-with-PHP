@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Company SYSTEM "catalog_17031233.dtd">
+<?xml-stylesheet type="text/css" href="catalog_17031233.css"?>
+
+<Company>
+  <Company_Details type="trademark">
+    <Name>Arm Tech.</Name>
+    <Address><span>Address: </span>Baneshowr</Address>
+    <Phone><span>Phone: </span>1234567890</Phone>
+    <Logo>logo</Logo>
+  </Company_Details>
+  <Department>
+    <Chief>
+      <Chief_Name><span>Chief Name: </span>Sulav Thapa</Chief_Name>
+      <Chief_Address><span>Address: </span>Bhaktapur</Chief_Address>
+      <Chief_Email><span>Email: </span>thapasulup@gmail.com</Chief_Email>
+      <Chief_Phone><span>Phone: </span>1234567</Chief_Phone>
+      <Chief_MobilePhone><span>Mobile Phone: </span>127896540</Chief_MobilePhone>
+    </Chief>
+    <Departments id="1">
+      <Department_Name><span>Name of department: </span>Android App Development</Department_Name>
+      <Project_Manager><span>Project Manager: </span>Ram Tiwari</Project_Manager>
+      <Department_Phone><span>Phone: </span>1478523690</Department_Phone>
+      <Description><span>Description: </span>This department focuses on the all types of the android app development. this department focuses makes user friendly applicat</Description>
+      <No_of_Projects><span>No of Projects: </span>5</No_of_Projects>
+      <No_Of_Staff><span>No of Staff: </span>35</No_Of_Staff>
+    </Departments>
+    <Departments id="2">
+      <Department_Name><span>Name of department: </span>IOS App development</Department_Name>
+      <Project_Manager><span>Project Manager: </span>Steve Jobs</Project_Manager>
+      <Department_Phone><span>Phone: </span>2130456987</Department_Phone>
+      <Description><span>Description: </span>This department looks after the app development for the apple devices.</Description>
+      <No_of_Projects><span>No of Projects: </span>4</No_of_Projects>
+      <No_Of_Staff><span>No of Staff: </span>26</No_Of_Staff>
+    </Departments>
+    <Departments id="3">
+      <Department_Name><span>Name of department: </span>Desktop Software Development</Department_Name>
+      <Project_Manager><span>Project Manager: </span>Mark Angel</Project_Manager>
+      <Department_Phone><span>Phone: </span>1456023789</Department_Phone>
+      <Description><span>Description: </span>This department looks after the development of the desktop software.</Description>
+      <No_of_Projects><span>No of Projects: </span>12</No_of_Projects>
+      <No_Of_Staff><span>No of Staff: </span>45</No_Of_Staff>
+    </Departments>
+    <Departments id="4">
+      <Department_Name><span>Name of department: </span>WebSite Development Department</Department_Name>
+      <Project_Manager><span>Project Manager: </span>Hari Ram</Project_Manager>
+      <Department_Phone><span>Phone: </span>2103658974</Department_Phone>
+      <Description><span>Description: </span>This department develops the website as per the requirement of the clients.</Description>
+      <No_of_Projects><span>No of Projects: </span>13</No_of_Projects>
+      <No_Of_Staff><span>No of Staff: </span>22</No_Of_Staff>
+    </Departments>
+    <Departments id="5">
+      <Department_Name><span>Name of department: </span>Web App Development</Department_Name>
+      <Project_Manager><span>Project Manager: </span>Samrakshya Thapa</Project_Manager>
+      <Department_Phone><span>Phone: </span>1233545660</Department_Phone>
+      <Description><span>Description: </span>This department develops the web application.</Description>
+      <No_of_Projects><span>No of Projects: </span>22</No_of_Projects>
+      <No_Of_Staff><span>No of Staff: </span>60</No_Of_Staff>
+    </Departments>
+  </Department>
+</Company>
